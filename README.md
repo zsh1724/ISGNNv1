@@ -18,7 +18,7 @@ Code is written in Python 3.8 and requires:
 * ogb     1.3.6
 
 ## Cite as
-> Anonymous, Graph Neural Networks via Isomorphic Substructures. AAAI submission 2024.
+> Anonymous, Graph Neural Networks via Isomorphic Substructures. DASFFA submission 2025.
 
 ### Bibtex:
 ```
